@@ -45,7 +45,7 @@
 ### 👨‍💻 Programming & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter,vscode" />
+<img src="https://skillicons.dev/icons?i=python,jupyter,mysql,git,github,vscode" />
 </p>
 
 ### 📊 Data Science & Analytics
@@ -136,10 +136,32 @@ Data Wrangling • EDA • KPI Analysis • Root Cause Analysis • Business Rec
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sonakunwar21&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<br><br>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonakunwar21&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
+---
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sona-kunwar-b6495237a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:officialsona43@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> ### ✨ *"Data drives decisions. Curiosity drives innovation."*
+
+</div>
 ---

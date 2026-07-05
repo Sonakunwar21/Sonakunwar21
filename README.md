@@ -14,7 +14,6 @@ Turning Data into Insights • Solving Real-World Problems • Always Learning
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Sc. Graduate & Aspiring Data Scientist
 - 📊 Passionate about Data Analytics, Machine Learning & AI
 - 🐍 Working with Python, SQL, Power BI & Statistics
 - 🌱 Currently learning Machine Learning & Deep Learning
@@ -58,6 +57,7 @@ Turning Data into Insights • Solving Real-World Problems • Always Learning
 ⭐ Flight Delay Analysis
 
 ⭐ Traffic Analysis
+
 
 ---
 

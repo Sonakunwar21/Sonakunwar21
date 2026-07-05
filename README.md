@@ -154,17 +154,6 @@ Data Wrangling • EDA • KPI Analysis • Root Cause Analysis • Business Rec
 > 💡 **Every project reflects my growth in solving real-world business problems using data.**
 
 ---
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sonakunwar21&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonakunwar21&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -188,4 +177,4 @@ Data Wrangling • EDA • KPI Analysis • Root Cause Analysis • Business Rec
 > ### ✨ *"Data drives decisions. Curiosity drives innovation."*
 
 </div>
----
+

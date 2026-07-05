@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Sona Kunwar
+#  Sona Kunwar 👩‍💻
 
 ### 📊 Data Scientist • 📈 Data Analyst • 🤖 Machine Learning Enthusiast
 
@@ -38,15 +38,25 @@
 
 
 ---
-# 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" /><br><br>
+### 👨‍💻 Programming & Databases
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn" /><br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter,vscode" />
+</p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,powerbi,anaconda" />
+### 📊 Data Science & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 </div>
 
@@ -68,11 +78,7 @@
 
 <td>
 
-✔ Data Cleaning & Preprocessing<br>
-✔ Missing Value & Outlier Handling<br>
-✔ Exploratory Data Analysis (EDA)<br>
-✔ Feature Relationships & Visualization<br>
-✔ Business Insight Generation
+Data Cleaning • Missing Value Handling • Outlier Detection • EDA • Data Visualization • Business Insights
 
 </td>
 </tr>
@@ -86,11 +92,7 @@
 
 <td>
 
-✔ Time Series Analysis<br>
-✔ Correlation & Pattern Discovery<br>
-✔ Statistical Visualization<br>
-✔ Feature Engineering<br>
-✔ Climate Trend Interpretation
+Time Series Analysis • Correlation Analysis • Feature Engineering • Statistical Visualization • Trend Interpretation
 
 </td>
 </tr>
@@ -104,11 +106,7 @@
 
 <td>
 
-✔ Financial Data Analysis<br>
-✔ Trend & Pattern Recognition<br>
-✔ Data Visualization & Storytelling<br>
-✔ Market Insight Generation<br>
-✔ Business Decision Support
+Financial Analytics • Trend Analysis • Data Visualization • Storytelling • Business Decision Support
 
 </td>
 </tr>
@@ -122,43 +120,14 @@
 
 <td>
 
-✔ Data Wrangling & Cleaning<br>
-✔ Delay Pattern Analysis<br>
-✔ KPI Identification<br>
-✔ Root Cause Exploration<br>
-✔ Business Recommendations
+Data Wrangling • EDA • KPI Analysis • Root Cause Analysis • Business Recommendations
 
 </td>
 </tr>
 
 </table>
 
-> 💡 **Each project reflects my journey of applying data analytics, statistics, and machine learning to solve practical, real-world problems.**
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
-
-### 📊 Data Science & Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-</div>
+> 💡 **Every project reflects my growth in solving real-world business problems using data.**
 
 ---
 ## 📊 GitHub Activity

@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://github.com/Sonakunwar21">
+  <a href="https://github.com/Sonakunwar21/Sonakunwar21">
     <strong>🔗 Sona Kunwar</strong>
   </a>
 </p>
@@ -19,7 +19,6 @@
 </div>
 
 ---
----
 
 ## 🚀 What I Do
 
@@ -37,7 +36,6 @@
 
 🤝 Collaborate on innovative, data-driven projects and continuously learn emerging technologies.
 
----
 
 ---
 # 🛠️ Tech Stack
@@ -53,4 +51,126 @@
 </div>
 
 ---
+## 🚀 Skills Demonstrated Through Projects
 
+<table>
+<tr>
+<th width="35%">📂 Project</th>
+<th>🎯 Skills Demonstrated</th>
+</tr>
+
+<tr>
+<td>
+
+🚗 <b><a href="https://github.com/Sonakunwar21/Used_car_analysis">Used Car Price Analysis</a></b>
+
+</td>
+
+<td>
+
+✔ Data Cleaning & Preprocessing<br>
+✔ Missing Value & Outlier Handling<br>
+✔ Exploratory Data Analysis (EDA)<br>
+✔ Feature Relationships & Visualization<br>
+✔ Business Insight Generation
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🌦 <b><a href="https://github.com/Sonakunwar21/Weather-History-EDA">Weather History Analysis</a></b>
+
+</td>
+
+<td>
+
+✔ Time Series Analysis<br>
+✔ Correlation & Pattern Discovery<br>
+✔ Statistical Visualization<br>
+✔ Feature Engineering<br>
+✔ Climate Trend Interpretation
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+📈 <b><a href="https://github.com/Sonakunwar21/Stock_Market_Analysis">Stock Market Analysis</a></b>
+
+</td>
+
+<td>
+
+✔ Financial Data Analysis<br>
+✔ Trend & Pattern Recognition<br>
+✔ Data Visualization & Storytelling<br>
+✔ Market Insight Generation<br>
+✔ Business Decision Support
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+✈ <b><a href="https://github.com/Sonakunwar21/Flight_Delay_Analysis">Flight Delay Analysis</a></b>
+
+</td>
+
+<td>
+
+✔ Data Wrangling & Cleaning<br>
+✔ Delay Pattern Analysis<br>
+✔ KPI Identification<br>
+✔ Root Cause Exploration<br>
+✔ Business Recommendations
+
+</td>
+</tr>
+
+</table>
+
+> 💡 **Each project reflects my journey of applying data analytics, statistics, and machine learning to solve practical, real-world problems.**
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+### 📊 Data Science & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+</div>
+
+---
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sonakunwar21&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonakunwar21&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
